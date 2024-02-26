@@ -30,8 +30,8 @@ BILLY is designed by IKEA of Sweden.
 
 ### Materials <a id="materials"></a>
 
-- **Main parts:** Particleboard, Paper foil, Plastic Edging
-- **Side Panel:** Particleboard, Paper foil, Melamine foil, Plastic Edging
+- **Main parts:** Particleboard, Paper foil, Plastic edging
+- **Side Panel:** Particleboard, Paper foil, Melamine foil, Plastic edging
 - **Plinth front:** Particleboard, Paper foil
 - **Back:** Fiberboard, Paint, Paper foil
 
@@ -39,7 +39,7 @@ BILLY is designed by IKEA of Sweden.
 
 You will need:
 - Flathead screwdriver (fits in a screw shaped like the minus sign)
-- Phillips Head screwdriver (fits in a screw shaped like the plus sign)
+- Phillips head screwdriver (fits in a screw shaped like the plus sign)
 - Pencil
 - Hammer
 - Ruler
@@ -59,15 +59,64 @@ Do not climb on this product. Use the included wall fasteners to attach the book
 ## Hardware <a id="hardware"></a>
 
 Before assembly, make sure the following items are included with your BILLY bookcase. Use the product numbers to order replacement parts if any hardware is missing.
-- 12 Cam-Lock Screws `118331`
-- 16 Wooden Dowel Pins `101351`
-- 18 Panel Pins `101201`
-- 12 Plastic Cam-Lock Nuts `119081`
-- 16 BILLY Shelf Pins `131372`
-- 2 Small Screws `109041`
-- 4 Steel Washers `100823`
+- 12 Cam-lock screws `118331`
+- 16 Wooden dowel pins `101351`
+- 18 Panel pins `101201`
+- 12 Plastic cam-lock nuts `119081`
+- 16 Shelf pins `131372`
+- 2 Small screws `109041`
+- 4 Steel washers `100823`
+- 2 Wall mount brackets `106989`
 
 ## Assembly <a id="assembly"></a>
 
 ### Step 1
+
+Components:
+- 16 Wooden dowel pins
+- 3 Stationary shelf boards
+    - These boards are the middle shelf, top, and base of the bookcase.
+- 1 Footer board
+    - This board covers the front base of the bookshelf.
+
+The stationary shelf boards have four holes on each of the two shorter edges.
+
+Insert a dowel pin into the two outermost holes on each side of the board. There should be four pins in the board, two on each side. 
+
+Repeat this step for each of the three shelf boards. 
+
+The footer board has two holes on each shorter edge. Insert a dowel pin into each of these four holes. 
+
+### Step 2
+
+Components:
+- 12 Cam-lock screws
+- 2 Side panels
+    - These panels are the sides of the bookcase.
+- Phillips head screwdriver
+
+The side panels have one smooth side and one side with various holes for dowel pins, screws, and cam-lock nuts. Make sure the side with holes is facing up.
+
+Locate the holes for the cam-lock screws. There are six suitable holes on each panel. There are two at the top, two in the middle, and two at the bottom of the panel. The correct holes are smaller than the holes for the dowel pins, and are located near the middle of the panel relative to the dowel pin holes.
+
+Use the phillips head screwdriver to insert each screw. Rotate the screwdriver clockwise to tighten the screw, and counterclockwise to loosen it.
+
+Repeat this step for the second side panel.
+
+### Step 3
+
+Components:
+- 2 Stationary shelf boards with dowel pins (from step 1)
+- 1 Footer board with dowel pins (from step 1)
+- 1 Side panel with cam-lock screws (from step 2)
+
+Insert the footer board into the two dowel pin holes at the bottom edge of the side panel. The board should be connected to the side panel at a 90 degree angle.
+
+The shelf boards have two longer edges. One of these is finished and one is exposed. Rotate a shelf board so that it is perpendicular to both the side panel and the footer board. The exposed edge should be furthest away from the footer board, facing the back of the shelf when finished.
+
+Insert the shelf board into the dowel pin holes on each side of the cam-lock screws nearest to the footer board. The board should be flush with the footer board and the side panel.
+
+Repeat this step for the second shelf board, this time in the dowel pin holes at the middle of the side panel.
+
+
 

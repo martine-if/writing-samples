@@ -105,18 +105,22 @@ Repeat this step for the second side panel.
 
 ### Step 3
 
-Components:
-- 2 Stationary shelf boards with dowel pins (from step 1)
-- 1 Footer board with dowel pins (from step 1)
-- 1 Side panel with cam-lock screws (from step 2)
-
 Insert the footer board into the two dowel pin holes at the bottom edge of the side panel. The board should be connected to the side panel at a 90 degree angle.
 
-The shelf boards have two longer edges. One of these is finished and one is exposed. Rotate a shelf board so that it is perpendicular to both the side panel and the footer board. The exposed edge should be furthest away from the footer board, facing the back of the shelf when finished.
+Examine the three shelf boards from step 1. Rotate the boards so that the holes on the bottom are facing towards you. Two of the boards will have an exposed edge on the right, and one will have an exposed edge on the left. Set aside the two like boards for this step.
+
+Rotate a shelf board so that it is perpendicular to both the side panel and the footer board. The exposed edge should be furthest away from the footer board, facing the back of the shelf when finished.
 
 Insert the shelf board into the dowel pin holes on each side of the cam-lock screws nearest to the footer board. The board should be flush with the footer board and the side panel.
 
 Repeat this step for the second shelf board, this time in the dowel pin holes at the middle of the side panel.
 
+### Step 4
+
+Components:
+- 4 Cam-lock nuts
+- Flathead screwdriver
+
+Insert the cam-lock nuts into the holes on the bottom of the shelf boards, nearest to the side panel. There are two holes with cam-lock screws on each shelf board. Use the flathead screwdriver to tighten them around the cam-lock screws in the holes. Rotate the screwdriver clockwise to tighten the screw, and counterclockwise to loosen it. 
 
 

@@ -1,10 +1,15 @@
 # BILLY
 
 ## Table of Contents
-[Product Details](#product-details)
+1. [Product Details](#product-details)
+    1. [Measurements](#measurements)
+    2. [Materials](#materials)  
+2. [Tools](#tools)
+3. [Notes](#notes)
+4. [Hardware](#hardware)
+5. [Assembly](#assembly)
 
-
-## Product Details <a name="product-details"></a>
+## Product Details <a id="product-details"></a>
 
 The BILLY bookcase is an adjustable set of shelves. Modify the height of each shelf or combine BILLY with other units to accomodate your needs.
 
@@ -16,21 +21,21 @@ BILLY is designed by IKEA of Sweden.
 
 > **WARNING!** Serious or fatal crushing injuries can occur if furniture tips over. To prevent this, furniture must be used with the wall attachment devices provided.
 
-### Measurements
+### Measurements <a id="measurements"></a>
 
 - **Width:** 31.5 inches
 - **Height:** 79.5 inches
 - **Depth:** 11 inches
 - **Max load per shelf:** 66 pounds
 
-### Materials
+### Materials <a id="materials"></a>
 
 - **Main parts:** Particleboard, Paper foil, Plastic Edging
 - **Side Panel:** Particleboard, Paper foil, Melamine foil, Plastic Edging
 - **Plinth front:** Particleboard, Paper foil
 - **Back:** Fiberboard, Paint, Paper foil
 
-## Tools
+## Tools <a id="tools"></a>
 
 You will need:
 - Flathead screwdriver (fits in a screw shaped like the minus sign)
@@ -41,7 +46,7 @@ You will need:
 
 All other required components are included.
 
-## Notes
+## Notes <a id="notes"></a>
 
 Bring a helper! Prevent accidents and confusion by assembling this product with a friend.
 
@@ -51,7 +56,7 @@ Confused? Call IKEA customer support for assembly assistance at `1-888-888-4532`
 
 Do not climb on this product. Use the included wall fasteners to attach the bookcase to the wall to avoid injury or death.
 
-## Hardware
+## Hardware <a id="hardware"></a>
 
 Before assembly, make sure the following items are included with your BILLY bookcase. Use the product numbers to order replacement parts if any hardware is missing.
 - 12 Cam-Lock Screws `118331`
@@ -62,7 +67,7 @@ Before assembly, make sure the following items are included with your BILLY book
 - 2 Small Screws `109041`
 - 4 Steel Washers `100823`
 
-## Assembly
+## Assembly <a id="assembly"></a>
 
 ### Step 1
 

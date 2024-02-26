@@ -1,6 +1,6 @@
 # BILLY
 
-![BILLY](URL or file path)
+![BILLY](https://github.com/martine-if/writing-samples/blob/main/BILLY/BILLY.png)
 
 ### Product Details
 

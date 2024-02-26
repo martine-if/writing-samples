@@ -13,7 +13,7 @@
 
 The BILLY bookcase is an adjustable set of shelves. Modify the height of each shelf or combine BILLY with other units to accomodate your needs.
 
-The bookcase includes one stationary shelf and four adjustable shelves.
+BILLY includes one stationary shelf and four adjustable shelves.
 
 Article Number: `002.638.50`
 

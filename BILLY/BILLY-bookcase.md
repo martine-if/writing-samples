@@ -11,7 +11,7 @@
 
 ## Product Details <a id="product-details"></a>
 
-The BILLY bookcase is an adjustable set of shelves. Modify the height of each shelf or combine BILLY with other units to accomodate your needs.
+The BILLY bookcase is an adjustable set of shelves. Modify the height of each shelf or combine BILLY with other units to accommodate your needs.
 
 BILLY includes one stationary shelf and four adjustable shelves.
 
@@ -38,8 +38,8 @@ BILLY is designed by IKEA of Sweden.
 ## Tools <a id="tools"></a>
 
 You will need:
-- Flathead screwdriver (fits in a screw shaped like the minus sign)
-- Phillips head screwdriver (fits in a screw shaped like the plus sign)
+- Flathead screwdriver
+- Phillips head screwdriver
 - Pencil
 - Hammer
 - Ruler
